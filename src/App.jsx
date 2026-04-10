@@ -1,7 +1,8 @@
+import Example1 from "./Example1";
 function App() {
   return (
     <>
-      <h1>React Prep</h1>
+      <Example1 />
     </>
   );
 }
