@@ -3,6 +3,7 @@
 // import Example1 from "./Example1";
 // import LiftingStateUp from "./LiftingStateUp";
 import DebounceSearch from "./DebounceSearch";
+import Users from "./Users";
 function App() {
   return (
     <>
@@ -11,6 +12,7 @@ function App() {
       <ApiCallLoadingErrorHandling />
       <AsyncAwaitApi /> */}
       <DebounceSearch />
+      <Users />
     </>
   );
 }
